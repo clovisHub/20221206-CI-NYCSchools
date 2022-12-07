@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">20221206-CI-NYCSchools</string>
+    <string name="highschool_name">HighSchool Name</string>
+    <string name="math">Math</string>
+    <string name="reading">Reading</string>
+    <string name="writing">Writing</string>
+</resources>
